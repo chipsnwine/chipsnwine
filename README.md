@@ -9,6 +9,7 @@ I'm a seasoned software developer with over 10 years of experience crafting reli
 ### 💻 Backend
 - **Java (Spring Boot)** – REST APIs, microservices, enterprise apps
 - **Vanilla PHP** – Lightweight backend solutions, rapid prototyping
+- **Firebase** – Authentication, Firestore, Realtime Database, Cloud Functions
 
 ### 🌐 Frontend
 - **React.js** – Interactive UIs, SPAs, state management
