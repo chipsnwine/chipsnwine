@@ -19,6 +19,10 @@ I'm a seasoned software developer with over 10 years of experience crafting reli
 - **Firestore (NoSQL)** – Real-time sync, document-based storage
 - **MySQL & PostgreSQL** – Structured data using OOP best practices and secure queries with **PDO** query optimisation, and transactional logic
 
+### 🤖 Scripting & Automation
+- **Python** – Automated web flows, data pipelines and API integrations
+- **DAX (Power BI)** – Data modelling, KPIs, and advanced analytics for business intelligence
+
 ### 🔧 Tools & Workflow
 - **Git** – Version control, team workflows
 - **Figma** – Collaborative UI/UX design and prototyping
