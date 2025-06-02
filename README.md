@@ -15,8 +15,13 @@ I'm a seasoned software developer with over 10 years of experience crafting reli
 - **React.js** – Interactive UIs, SPAs, state management
 - **Flutter** – Cross-platform mobile & desktop apps
 
+### 🧱 Databases
+- **Firestore (NoSQL)** – Real-time sync, document-based storage
+- **MySQL & PostgreSQL** – Structured data using OOP best practices and secure queries with **PDO** query optimisation, and transactional logic
+
 ### 🔧 Tools & Workflow
 - **Git** – Version control, team workflows
+- **Figma** – Collaborative UI/UX design and prototyping
 - **Adobe CS Suite** – UI/UX design, prototyping, asset production
 
 ---
