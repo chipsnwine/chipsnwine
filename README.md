@@ -14,6 +14,7 @@ I'm a seasoned software developer with over 10 years of experience crafting reli
 ### 🌐 Frontend
 - **React.js** – Interactive UIs, SPAs, state management
 - **Flutter** – Cross-platform mobile & desktop apps
+- **C#** – Used in an AR project to detect planes and place 3D objects in-frame (Unity + ARFoundation)
 
 ### 🧱 Databases
 - **Firestore (NoSQL)** – Real-time sync, document-based storage
