@@ -28,7 +28,7 @@ I'm a seasoned software developer with over 10 years of experience crafting reli
 ### 🔧 Tools & Workflow
 - **Git** – Version control, team workflows
 - **Figma** – Collaborative UI/UX design and prototyping
-- **Adobe CS Suite** – UI/UX design, prototyping, asset production
+- **Adobe CC Suite** – UI/UX design, prototyping, asset production
 
 ---
 
